@@ -9,3 +9,6 @@ https://github.com/Rimshan12/Generative-AI-2025/blob/main/2493_Week(03)_Assign%5
 
 
 https://github.com/Rimshan12/Generative-AI-2025/blob/main/2493_week(04)_Assign(04).ipynb
+
+
+https://github.com/Rimshan12/Generative-AI-2025/blob/main/2493_week(05)_Assign(05).ipynb
