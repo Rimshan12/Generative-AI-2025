@@ -12,3 +12,6 @@ https://github.com/Rimshan12/Generative-AI-2025/blob/main/2493_week(04)_Assign(0
 
 
 https://github.com/Rimshan12/Generative-AI-2025/blob/main/2493_week(05)_Assign(05).ipynb
+
+
+https://github.com/Rimshan12/Generative-AI-2025/blob/main/2493_week(06)_Assign(06).ipynb
